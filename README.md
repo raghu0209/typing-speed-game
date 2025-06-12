@@ -38,7 +38,7 @@ A simple and fun web-based typing speed game. It displays random quotes, tracks 
 
 ## 📦 Author
 
-Built by Raghavendra Dasari with help from ChatGPT (Zyro).
+Built by Raghavendra Dasari.
 
 ---
 
