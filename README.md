@@ -27,7 +27,7 @@ A simple and fun web-based typing speed game. It displays random quotes, tracks 
 
 ## 🖼 Preview
 
-![Typing Game Screenshot](screenshot.png)
+![Typing Game Screenshot](dashboard.png)
 
 ## 📂 Folder Structure
 
